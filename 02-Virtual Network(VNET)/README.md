@@ -60,5 +60,5 @@ Step 7: Verify Deployment
 1) Wait a moment for the deployment notification to show "Deployment succeeded".
 2) Click Go to resource to open your newly created Virtual Network overview page and review its properties.
 
-![image alt]()
+![image alt](https://github.com/skaushik258/AZ-Labs/blob/5400286818069ea82306b48c870bf731e9afc36b/02-Virtual%20Network(VNET)/VNET_DEPLOYED.PNG)
 
