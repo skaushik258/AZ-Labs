@@ -2,6 +2,7 @@
 # LAB-VIRTUAL NETWORK CREATION:
 
 * OVERVIEW:
+
 A VNet enables many types of Azure resources, such as Azure Virtual Machines (VMs), to securely communicate with each other, the internet, and on-premises networks.
 
 
