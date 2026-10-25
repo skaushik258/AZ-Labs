@@ -24,4 +24,4 @@ Step 3: Configure Basic Settings
 -> Name:VNET-Prod.
 -> Region: Central India.
 
-   ![image alt()]
+   ![image alt](https://github.com/skaushik258/AZ-Labs/blob/948d157e72ed54918fea070b740eb9f37c864e47/02-Virtual%20Network(VNET)/VNET_NAME.PNG)
