@@ -14,4 +14,4 @@ Step 2: Navigate to Virtual Networks
 1) In the top search bar of the Azure portal, type Virtual networks.
 2) Select Virtual networks under the Services category or Click on Create resoource.
 
-![image alt]().
+![image alt](https://github.com/skaushik258/AZ-Labs/blob/859f16fdc1a53a1bc4e4071db8ec386699313c13/02-Virtual%20Network(VNET)/screenshotsCreate%20resource.PNG).
