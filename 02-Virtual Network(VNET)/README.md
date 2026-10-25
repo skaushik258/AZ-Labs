@@ -37,12 +37,9 @@ Step 5: Define Address Space and Subnets
 2) Subnet address range: 10.0.1.0/24 (leaving 256 total addresses, with Azure reserving 5)
 3) Subnets: Click on the default subnet and Changed name to VM_SUB.
 
-[ Internet ] 
-     │
-     ▼
-[ VNet: vnet-prod-eastus (10.0.0.0/16) ]
-     ├── [ Subnet: frontend (10.0.1.0/24) ] (WEB_SUB)
-     └── [ Subnet: backend (10.0.2.0/24) ] (DB_SUB)
+[ VNet: VNET-Prod (10.0.0.0/16) ] (VM_SUB)
+      [ Subnet: frontend (10.0.1.0/24) ] (WEB_SUB)
+      [ Subnet: backend (10.0.2.0/24) ] (DB_SUB)
 
 ![image alt](https://github.com/skaushik258/AZ-Labs/blob/d4a410471dbcbae8303b171d164def4321e841bb/02-Virtual%20Network(VNET)/VNET_SUBNETTING.PNG)
 
