@@ -54,7 +54,7 @@ Step 6: Review and Create
 2) Review your selected configurations (Address space, Subnets, Region, Subscription).
 3) Click Create to kick off the deployment.
 
-![image alt]()
+![image alt](https://github.com/skaushik258/AZ-Labs/blob/4197ddecbd66984de61066ee76d5f258ab6f12f0/02-Virtual%20Network(VNET)/REVIEW_AND_CREATE.PNG)
 
 Step 7: Verify Deployment
 1) Wait a moment for the deployment notification to show "Deployment succeeded".
